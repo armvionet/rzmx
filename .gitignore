@@ -23,3 +23,13 @@ verifica
 instalar
 updatege
 ws-manager
+**/*.o
+**/*.so
+**/*.out
+**/*.exe
+**/*.dll
+**/*.dylib
+**/*.a
+**/*.la
+**/*.lo
+**/*.sh.x
