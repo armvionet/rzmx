@@ -33,3 +33,13 @@ ws-manager
 **/*.la
 **/*.lo
 **/*.sh.x
+**/*.o
+**/*.so
+**/*.out
+**/*.exe
+**/*.dll
+**/*.dylib
+**/*.a
+**/*.la
+**/*.lo
+**/*.sh.x
